@@ -7,7 +7,7 @@
 estas en una agencia de inteligencia, nuestros aliados han encontrado fotos aparentemente limpias, hemos logrado desarollar una herramienta para
 extraer el posible contendio de estas imagenes, aparentemente dentro de ellas vienen mensajes secretos ...
 
-tu mision es adivinar que se trama, este ctf servira para mas ctf's que vendran
+tu mision es adivinar se traman esos delincuentes, este ctf servira para mas ctf's que vendran
 por ello guarda la resolucion de este ctf, puede que sea importante en un futuro,
 buena suerte ...
 
