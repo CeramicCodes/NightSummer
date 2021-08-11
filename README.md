@@ -8,6 +8,9 @@ estas en una agencia inteligencia, nuestros aliados han encontrado fotos aparent
 extraer el posible contendio de estas imagenes, aparentemente dentro de ellas vienen mensajes secretos ...
 
 tu mision es adivinar que se trama, este ctf servira para mas ctf's que vendran
-por ello guarda la resolucion de este ctf, puede que sea importante en un futuro
+por ello guarda la resolucion de este ctf, puede que sea importante en un futuro,
 buena suerte ...
+
+
+para entregar el ctf debes de enviar un mensaje a algun administrador ...
 
